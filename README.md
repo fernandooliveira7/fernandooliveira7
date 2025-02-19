@@ -7,7 +7,7 @@
 
 - I’m currently learning: **Java, Power BI, Análise de dados**
 
-- I’m looking to collaborate on: **Projetos de análise de dados e data Sciente,**
+- I’m looking to collaborate on: **Projetos de análise de dados e Data Science,**
 
 - I’m looking for help with: **Aprender Java e desenvolver projetos do meu curso de Bacharelado em Sistemas de Informação, na UFRPE**
 
