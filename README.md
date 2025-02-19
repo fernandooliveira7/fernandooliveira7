@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm José Fernando de Oliveira Filho</h1>
+<h1 align="center">Olá, me chamo José Fernando de Oliveira Filho</h1>
 <h3 align="center">Um estudante apaixonado por tecnologia e programação!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandooliveira7&label=Profile%20views&color=0e75b6&style=flat" alt="fernandooliveira7" /> </p>
 
-- 🔭 I’m currently working on **Projetos de estudos em análise de dados**
+- I’m currently working on: **Projetos de estudos em análise de dados**
 
-- 🌱 I’m currently learning **Java, Power BI, Análise de dados**
+- I’m currently learning: **Java, Power BI, Análise de dados**
 
-- 👯 I’m looking to collaborate on **Projetos de análise de dados e Data Science,**
+- I’m looking to collaborate on: **Projetos de análise de dados e Data Science,**
 
-- 🤝 I’m looking for help with **Aprender Java e desenvolver projetos do meu curso de Bacharelado em Sistemas de Informação, na UFRPE**
+- I’m looking for help with: **Aprender Java e desenvolver projetos do meu curso de Bacharelado em Sistemas de Informação, na UFRPE**
 
-- 💬 Ask me about **Python, Flutter e Dart**
+- Ask me about: **Python, Flutter e Dart**
 
-- 📫 How to reach me **jose_fernando2550@hotmail.com**
+- 📫 How to reach me: **jose_fernando2550@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
