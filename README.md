@@ -13,7 +13,7 @@
 
 - Ask me about: **Python, Flutter e Dart**
 
-- 📫 How to reach me: **jose_fernando2550@hotmail.com**
+- How to reach me: **jose_fernando2550@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
